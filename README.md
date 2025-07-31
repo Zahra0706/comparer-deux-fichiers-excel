@@ -41,12 +41,12 @@ Les résultats de la comparaison sont affichés sur la même page.
 
 3. **Structure du projet** :
 
-   📂 votre-projet/
-    ├── compare_deux_fichiers_excel.php
-    ├── style.css
-    ├── PhpSpreadsheet-master/
-    ├── vendor/            # généré par Composer
-    ├── composer.json
-    ├── composer.lock
-    └── README.md
+   📂 votre-projet/<br>
+    ├── compare_deux_fichiers_excel.php<br>
+    ├── style.css<br>
+    ├── PhpSpreadsheet-master/<br>
+    ├── vendor/            # généré par Composer<br>
+    ├── composer.json<br>
+    ├── composer.lock<br>
+    └── README.md<br>
 
