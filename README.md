@@ -32,7 +32,7 @@ Les résultats de la comparaison sont affichés sur la même page.
 
    ```bash
    git clone https://github.com/Zahra0706/comparer-deux-fichiers-excel.git
-   cd nom-du-repo
+   cd comparer-deux-fichiers-excel
 
 2. **Installer les dépendances avec Composer** :
 
